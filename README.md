@@ -13,7 +13,7 @@
 - 🧠 Passionate about JavaScript, Backend, and Real-World Projects  
 - 📚 Currently learning MERN + DevOps  
 - ⚔️ Grinding DSA daily to strengthen logic  
-- 🎯 Goal: Become a confident, job-ready engineer in 2025  
+- 🎯 Goal: Become a confident, job-ready engineer in 2026
 
 ---
 

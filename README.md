@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Tanmaya ✨ Welcome to My GitHub Universe 🚀  ✨</h1>
+<h1 align="center">Hey, I'm Tanmaya 🚀 ✨ Welcome to My GitHub Universe  ✨</h1>
 
 <p align="center">
   <em>"Code. Learn. Improve. Repeat — that's how great engineers are built."</em>
@@ -60,8 +60,8 @@ traits:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanmaya-Naik&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmaya-Naik&theme=tokyonight" height="160"/>
 </p>
+
 
 ---
 

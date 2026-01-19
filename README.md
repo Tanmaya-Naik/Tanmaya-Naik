@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey, I'm Tanmaya — Welcome to My GitHub Universe ✨</h1>
+<h1 align="center">Hey, I'm Tanmaya ✨ Welcome to My GitHub Universe 🚀  ✨</h1>
 
 <p align="center">
   <em>"Code. Learn. Improve. Repeat — that's how great engineers are built."</em>
@@ -44,6 +44,45 @@ traits:
   - disciplined
   - curious
   - growth-oriented
+```
 
+---
 
+## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,express,mongodb,mysql,cpp,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanmaya-Naik&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmaya-Naik&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- 🔹 Data Structures & Algorithms 
+- 🔹 Full Stack MERN projects
+- 🔹 Writing clean, readable code
+
+--
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanmaya-kumar-naik38-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>⚡ Building quietly. Improving daily. ⚡</strong>
+</p>
